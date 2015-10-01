@@ -19,7 +19,7 @@ import com.google.gwt.user.client.ui.TextBox;
 import com.google.gwt.user.client.ui.VerticalPanel;
 
 /**
- NEWCOMMENT Entry po23232int classes define <code>onModuleLoad()</code>.
+ hello. classes define <code>onModuleLoad()</code>.
  */
 public class GitLab implements EntryPoint {
 	/**
