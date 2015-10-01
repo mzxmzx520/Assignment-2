@@ -19,7 +19,7 @@ import com.google.gwt.user.client.ui.TextBox;
 import com.google.gwt.user.client.ui.VerticalPanel;
 
 /**
- * llllllllllllllllllll Entry point classes define <code>onModuleLoad()</code>.
+ * lloooooooooooooooo Entry point classes define <code>onModuleLoad()</code>.
  */
 public class GitLab implements EntryPoint {
 	/**
