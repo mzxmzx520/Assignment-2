@@ -23,7 +23,7 @@ package ca.ubc.cpsc310.gitlab.shared;
 public class FieldVerifier {
 
 	/**
-	 * Verifies that the specified name is valid for our service.
+	 * Verifies that the "trying to make a conflict!!" for our service.
 	 * 
 	 * In this example, we only require that the name is at least four
 	 * characters. In your application, you can use more complex checks to ensure
